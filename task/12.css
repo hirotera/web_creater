@@ -1,0 +1,35 @@
+.sample1,.sample2,.sample3,.sample4,.sample5{
+  line-height: 1.5rem;
+  letter-spacing: .5em;
+}
+
+
+.sample1 {
+  font-family: 'Roboro',sans-serif;
+  font-size: 64px;
+  font-weight: 500;
+  
+}
+.sample2 {
+  font-family: 'Noto Sans Japanese',sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+  
+}
+.sample3 {
+  font-family: 'Quicksand',sans-serif;
+  font-size: 72px;
+  
+}
+.sample4 {
+  font-family: 'Lato',sans-serif;
+  font-size: 72px;
+  font-weight: 100;
+  
+}
+.sample5 {
+  font-family: 'Caveat','Permanent Marker',sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  
+}
