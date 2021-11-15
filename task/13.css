@@ -1,0 +1,29 @@
+
+h2{
+  font-family: 'Roboto',sans-serif;
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 1.5rem;
+  letter-spacing: 0.5em;
+}
+
+.sample1{
+  color: #000;
+}
+
+.sample1 span {
+  color: #D66E6E;
+}
+
+.sample2{
+  color: rgb(125,125,125);
+}
+
+.sample2 span {
+  color: rgb(215, 237, 81);
+}
+
+.sample3 {
+  color: #9BBCDE;
+  background-color: #333333;
+}
