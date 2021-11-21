@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+section {
+  min-height: 758px;
+  background-color: #E1DFCE;
+  background-image: url(/images/home-1680800_1920\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: 725px;
+  background-position: bottom;
+  padding-top: 126px;
+  padding-bottom: 16px;
+}
+
+
+p {
+  font-size: 18px;
+  font-family: 'Noto Sans JP', sans-serif;
+  letter-spacing: .05em;
+  height: 48px;
+  line-height:48px;
+  text-align: center;
+  background-image: url(/images/Ellipse\ 1132.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2 {
+  width: fit-content;
+  font-size: 88px;
+  color: #333;
+  letter-spacing: .1em;
+  line-height: 1.5;
+  margin: 0 auto;
+  text-align: right;
+}
+
+
+span{
+  color: #E29D34;
+}
+
+a {
+  display: block;
+  font-size: 24px;
+  font-weight: 300;
+  color: #fff;
+  letter-spacing: .1em;
+  line-height: 1;
+  background-color: #333;
+  padding: 24px 40px;
+  width: fit-content;
+  text-decoration: none;
+  margin: auto;
+  margin-top: 394px;
+}
+
