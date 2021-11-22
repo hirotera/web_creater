@@ -1,0 +1,43 @@
+* {
+  margin:0;
+}
+
+body {
+  background-color: #87786A;
+  padding: 80px;
+}
+
+div {
+  margin: 0 auto;
+}
+
+
+.konjac {
+width: 0;
+height: 0;
+border-style: solid;
+border-width: 0 147px 195px 147px;
+border-color: transparent transparent #C4C4C4 transparent;
+
+}
+
+.egg {
+  background-color: #fff;
+  border-radius: 50%;
+  width: 198px;
+  height: 198px;
+}
+
+.chikuwa {
+  background-color: #664E3C;
+  width: 453px;
+  height: 123px;
+  border-radius: 20px;
+}
+
+.skewers {
+  background-color: #CBA880;
+  width: 30px;
+  height: 226px;
+  margin-top: -43px;
+}
