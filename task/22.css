@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  background-color: #C8DEE4;
+  padding-top: 204px;
+}
+
+a,h1 {
+  line-height: 1.5;
+  letter-spacing: .1em;
+}
+
+section {
+  background-color: #fff;
+  width: 320px;
+  border-radius: 10px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Noto Sans JP',sans-serif;
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 25px;
+}
+
+span {
+  font-size: 12px;
+}
+
+.foodname {
+  border-top: 1px solid #E4E4E4;
+  margin-top: 20px;
+  padding: 20px 0 25px 0;
+}
+a{
+  font-size: 20px;
+  color: #fff;
+  background-color: #38924C;
+  border-radius: 26px;
+  padding: 11px 82px;
+  margin-bottom: 40px;
+  text-decoration: none;
+  display: block;
+}
