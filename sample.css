@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: #5993E4;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.container {
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  color: #fff;
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+}
+
+p {
+  /* margin-top: 100px; */
+  width: 320px;
+}
