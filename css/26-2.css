@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Noto Sans JP',sans-serif;
+}
+
+body {
+  font-family: 'Noto Sans JP',sans-serif;
+}
+
+main {
+  margin-left: 400px;
+}
+
+aside {
+  width: 400px;
+  height: 100vh;
+  padding-top: 28px;
+  background-color: #333;
+  position: fixed;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+}
+
+ul {
+  padding-top: 68px;
+  list-style: none;
+}
+
+li a {
+  font-size: 18px;
+  color: #fff;
+  padding: 28px 64px;
+}
+
+li a span {
+  display: block;
+  font-size: 12px;
+}
+
+li a:hover {
+  color: #333;
+  background-color: #fff;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.top-btn {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #fff;
+  color: #333;
+  position: fixed;
+  bottom: 80px;
+  right: 83px;
+}
+
+#feature {
+  background-color: #C9D63D;
+  text-align: center;
+  padding: 80px 0 310px;
+}
+
+#feature h3 {
+  color: #333;
+  line-height: 1;
+}
+
+#feature h3::before {
+  content: "Feature";
+  display: block;
+  font-size: 80px;
+  font-family: 'Train One',cursive;
+  line-height: 1.5;
+  opacity: .3;
+}
+
+#feature h3::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 24px auto;
+  background-color: #333;
+}
+
+#content {
+  background-color: #4E68EE;
+  text-align: center;
+  padding: 80px 0 310px;
+}
+
+#content h3 {
+  color: #fff;
+  line-height: 1;
+}
+
+#content h3::before {
+  content: "Content";
+  display: block;
+  font-size: 80px;
+  font-family: 'Train One',cursive;
+  line-height: 1.5;
+  opacity: .3;
+}
+
+#content h3::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 24px auto;
+  background-color: #fff;
+}
+
+#voice {
+  background-color: #E74E7C;
+  text-align: center;
+  padding: 80px 0 310px;
+}
+
+#voice h3 {
+  color: #fff;
+  line-height: 1;
+}
+
+#voice h3::before {
+  content: "Voice";
+  display: block;
+  font-size: 80px;
+  font-family: 'Train One',cursive;
+  line-height: 1.5;
+  opacity: .3;
+}
+
+#voice h3::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 24px auto;
+  background-color: #fff;
+}
+
+#contact {
+  background-color: #6BA53D;
+  text-align: center;
+  padding: 80px 0 310px;
+}
+
+#contact h3 {
+  color: #fff;
+  line-height: 1;
+}
+
+#contact h3::before {
+  content: "Contact";
+  display: block;
+  font-size: 80px;
+  font-family: 'Train One',cursive;
+  line-height: 1.5;
+  opacity: .3;
+}
+
+#contact h3::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 24px auto;
+  background-color: #fff;
+}
+
+#faq {
+  background-color: #358293;
+  text-align: center;
+  padding: 80px 0 310px;
+}
+
+#faq h3 {
+  color: #fff;
+  line-height: 1;
+}
+
+#faq h3::before {
+  content: "FAQ";
+  display: block;
+  font-size: 80px;
+  font-family: 'Train One',cursive;
+  line-height: 1.5;
+  opacity: .3;
+}
+
+#faq h3::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 24px auto;
+  background-color: #fff;
+}
+/*# sourceMappingURL=26-2.css.map */

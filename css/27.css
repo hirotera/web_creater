@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Roboto:wght@700&display=swap");
+* {
+  margin: 0;
+  line-height: 1;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+h2,
+h3,
+p,
+figcaption {
+  color: #333;
+}
+
+figcaption {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+}
+
+iframe {
+  width: 480px;
+  height: 240px;
+  border-radius: 10px;
+}
+
+#about {
+  padding-top: 160px;
+  padding-bottom: 40px;
+  background: -webkit-gradient(linear, right top, left top, from(#f93d3d), to(#51d5f2));
+  background: -webkit-linear-gradient(right, #f93d3d, #51d5f2);
+  background: linear-gradient(right, #f93d3d, #51d5f2);
+  text-align: center;
+}
+
+#about h2 {
+  font-size: 48px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  margin-bottom: 48px;
+}
+
+#about h2::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 8px;
+  margin: 0 auto;
+  border-radius: 4px;
+  background: -webkit-gradient(linear, right top, left top, from(#f93d3d), to(#51d5f2));
+  background: -webkit-linear-gradient(right, #f93d3d, #51d5f2);
+  background: linear-gradient(right, #f93d3d, #51d5f2);
+}
+/*# sourceMappingURL=27.css.map */
